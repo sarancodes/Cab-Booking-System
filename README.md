@@ -5,3 +5,5 @@ I had implemented the program through various packages which are very useful in 
 I had named the files according to their relevant functions.
 
 For demographic purposes I had made some prebuilt models which acts as the information given by the user to process the program.
+
+Note: The package is imported from the "com" folder with the heirarchy of com/company/ and then various folder inside those.

@@ -34,8 +34,8 @@ public class Main {
             e.getMessage();
         }
 
-        Location l4 = new Location(4, 4);
-        Vehicle v2 = new Vehicle("Indica", 2000, l4);
+        Location l4 = new Location(5, 5);
+        Vehicle v2 = new Vehicle("Swift", 3000, l4);
         Driver d2 = null;
         try{
             d2 = cabBookingService.registerDriver("Ramu", 12, Gender.MALE, v2, true);
